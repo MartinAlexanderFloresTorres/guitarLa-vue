@@ -1,6 +1,9 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+https://guitarla-vuejs.netlify.app/
+
+![1](https://github.com/MartinAlexanderFloresTorres/guitarLa-vue/assets/91045865/c042f66d-7bc9-498c-b7bb-bd633bc0614c)
+
 
 ## Recommended IDE Setup
 
